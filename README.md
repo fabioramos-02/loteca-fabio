@@ -19,5 +19,4 @@ Este é um projeto de simulador de loteria, onde o usuário digita 6 números e 
 | ID | Primeira tela | Segunda Tela |
 |----|---------------|--------------|
 | 1 | Loteca Limpa   | loteca Preenchida |
-| 2 | ![tela loteca não preenchida](https://user-images.githubusercontent.com/101193102/161781655-7cbd1142-cd83-44f6-8b9b-11f195b2d8c8.png)
-   | loteca Preenchida |
+| 2 | ![tela loteca não preenchida](https://user-images.githubusercontent.com/101193102/161781655-7cbd1142-cd83-44f6-8b9b-11f195b2d8c8.png) | ![loteca Preenchida](https://user-images.githubusercontent.com/101193102/161782575-3d053bdb-4f59-4b30-943d-11a9c1ca7dcb.png) |
