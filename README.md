@@ -46,3 +46,9 @@ function sorteio() {
 }
 }
 ```
+
+#### comando git
+Para iniciar o projeto
+```
+git init
+```
