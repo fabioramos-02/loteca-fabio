@@ -4,4 +4,11 @@ Este é um projeto de simulador de loteria, onde o usuário digita 6 números e 
 ## Tecnologia utilizadas
 - **HTML**: Estrutura do site
 - __CSS__: Estilização do site
-- - *_JS_*: Funções o site
+- *_JS_*: Funções o site
+- ~~BootStrap~~: Não foi utilizado
+
+### Melhorias Possíveis
+1. [ ] Subir para o GitHubPages
+2. [ ] Alterar os alerts
+3. [ ] Utilizar o Bootstrap
+  1. [ ] Deixar responsivo 
