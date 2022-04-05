@@ -17,5 +17,5 @@ Este é um projeto de simulador de loteria, onde o usuário digita 6 números e 
 [GitHubPages](https://fabioramos-02.github.io/loteca-mat/)
 
 | ID | Primeira tela | Segunda Tela |
--------------------------------------
+|----|---------------|--------------|
 | 1 | Loteca Limpa   | loteca Preenchida |
